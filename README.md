@@ -6,7 +6,7 @@ TEMPLATE LITERALS: written string and javaScript variable within single Variable
 Some javaScript Methods are:
 1.string.length()<br>
 2.string.toUpperCase()<br>
-3.string.toLowerCase()
+3.string.toLowerCase()<br>
 4.string.concat()
 5.string.slice()
 6.string.trim()
