@@ -8,7 +8,7 @@ Some javaScript Methods are:
 2.string.toUpperCase()<br>
 3.string.toLowerCase()<br>
 4.string.concat()<br>
-5.string.slice()
+5.string.slice()<br>
 6.string.trim()
 7.string.trimStart()
 8.string.trimEnd()
