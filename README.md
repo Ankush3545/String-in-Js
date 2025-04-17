@@ -10,7 +10,7 @@ Some javaScript Methods are:
 4.string.concat()<br>
 5.string.slice()<br>
 6.string.trim()<br>
-7.string.trimStart()
+7.string.trimStart()<br>
 8.string.trimEnd()
 9.string.replace()
 10.string.replaceAll()
