@@ -11,7 +11,7 @@ Some javaScript Methods are:
 5.string.slice()<br>
 6.string.trim()<br>
 7.string.trimStart()<br>
-8.string.trimEnd()
+8.string.trimEnd()<br>
 9.string.replace()
 10.string.replaceAll()
 
