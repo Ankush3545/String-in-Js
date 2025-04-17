@@ -15,4 +15,4 @@ Some javaScript Methods are:
 9.string.replace()
 10.string.replaceAll()
 
-Here Are some interview Question For Freshers And Intermediate Level
+
