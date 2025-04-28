@@ -12,7 +12,7 @@ Some javaScript Methods are:
 6.string.trim()<br>
 7.string.trimStart()<br>
 8.string.trimEnd()<br>
-9.string.replace()
+9.string.replace()<br>
 10.string.replaceAll()
 
 
